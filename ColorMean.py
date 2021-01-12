@@ -43,7 +43,6 @@ histList = []
 histList.extend(histRaw)
 
 
-
 # 분율에 따른 정렬
 
 # 정렬된 색을 저장할 배열 선언
